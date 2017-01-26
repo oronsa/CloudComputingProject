@@ -1,6 +1,6 @@
 name             'register'
-maintainer       'YOUR_COMPANY_NAME'
-maintainer_email 'YOUR_EMAIL'
+maintainer       'JCE Group'
+maintainer_email 'oron570@gmail.com'
 license          'All rights reserved'
 description      'Installs/Configures register'
 long_description IO.read(File.join(File.dirname(__FILE__), 'README.md'))
